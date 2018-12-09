@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/Viewster",
+  "port": "3900",
+  "requiresAuth": true
+}
